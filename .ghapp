@@ -1,0 +1,10 @@
+{
+  "id": 147097370,
+  "created_at": "2026-07-17T01:25:52.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["wishart-rejection-sampling", "sunnyhq-shi.r-universe.dev"]
+}
